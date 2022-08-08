@@ -1,0 +1,7 @@
+*/backups/
+*/logs/
+TShock/
+.*
+!.git*
+ServerLog.txt
+

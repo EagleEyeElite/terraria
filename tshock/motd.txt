@@ -1,0 +1,7 @@
+[c/6e6e6e:--x--x--x--x--x--x--x--x--x--x--x--]
+Welcome to our [c/55d284:T][c/62d27a:e][c/6fd16f:r][c/7cd165:r][c/89d15a:a][c/95d150:r][c/a4d145:i][c/b1d03b:a] server.
+Currently online: [c/FFFF00:%players%]
+Type [c/55D284:%specifier%][c/62D27A:h][c/6FD16F:e][c/7CD165:l][c/89D15A:p] for a list of commands.
+Proudly hosted by [c/277685:C][c/287385:o][c/297186:n][c/2A6E86:r][c/2B6B87:a][c/2C6887:d][c/2E6688: ][c/2F6388:K][c/306089:l][c/315D89:a][c/325B8A:u][c/33588A:s].
+[c/6e6e6e:--x--x--x--x--x--x--x--x--x--x--x--]
+
